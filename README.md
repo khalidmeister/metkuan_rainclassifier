@@ -1,1 +1,2 @@
-# metkuan_rainclassifier
+# Rain Classifier with KNN
+Untuk tugas akhir dari metkuan, saya membuat suatu classifier yang memprediksi apakah besok hujan atau tidak. Dengan menggunakan metode KNN dan pra-proses lainnya, telah didapatkan akurasi sebesar 90.8 % dari data yang telah diberikan meskipun di data tersebut banyak sekali missing value yang ditemukan, namun pra-proses yang dilakukan cukup berhasil. Untuk kedepannya, akan digunakan metode algoritma lain yang bisa menyelesaikan permasalahan tersebut.
